@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 int main() 
 {
 	setlocale(LC_ALL, "RU");
-	std::cout << "\nÑåò äîñòóïíà.\n";
+	std::cout << "\nÐ¡ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°.\n";
 	return 0;
 }
